@@ -66,7 +66,7 @@ The application helps users organize daily tasks with features like task creatio
 ### 1️ Clone the repository
 
 ```bash
-git clone <repository-link>
+git clone repository
 ```
 
 ### 2 Install dependencies
@@ -84,7 +84,7 @@ npm run dev
 ### 4 Open in browser
 
 ```bash
-http://localhost:5173
+http://localhost:8080
 ```
 
 ---
