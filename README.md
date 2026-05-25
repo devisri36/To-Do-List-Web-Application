@@ -108,18 +108,9 @@ http://localhost:5173
 
 ---
 
-## 📷 UI Preview
+## UI Preview
 
 Simple and clean productivity-focused interface with responsive layout and modern design.
 
 ---
 
-## 👩‍💻 Author
-
-Developed by Devi Sri
-
----
-
-## 📄 License
-
-This project is created for learning and educational purposes.
